@@ -1,3 +1,3 @@
 # kokoa clone udpdate
 
-CSS got so much better
+HTML & CSS are somuch fun!
