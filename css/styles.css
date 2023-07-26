@@ -1,9 +1,25 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
 @import "reset.css";
 @import "variables.css";
+
+/* Components */
 @import "status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-components.css";
+@import "components/badge.css";
+
 @import "welcome-header.css";
+
+/* Screens */
 @import "login-form.css";
+@import "friends.css";
 body {
+  color: #2e363e;
   font-family: "Poppins", sans-serif;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
