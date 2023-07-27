@@ -9,6 +9,7 @@
 @import "components/screen-header.css";
 @import "components/user-components.css";
 @import "components/badge.css";
+@import "components/icon-row.css";
 
 @import "welcome-header.css";
 
@@ -16,6 +17,7 @@
 @import "login-form.css";
 @import "friends.css";
 @import "find.css";
+@import "more.css";
 
 body {
   color: #2e363e;
