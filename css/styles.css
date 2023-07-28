@@ -10,6 +10,7 @@
 @import "components/user-components.css";
 @import "components/badge.css";
 @import "components/icon-row.css";
+@import "components/alt-screen-header.css";
 
 @import "welcome-header.css";
 
@@ -18,6 +19,7 @@
 @import "friends.css";
 @import "find.css";
 @import "more.css";
+@import "screen.css";
 
 body {
   color: #2e363e;
